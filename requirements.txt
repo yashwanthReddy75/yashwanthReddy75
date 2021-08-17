@@ -1,0 +1,6 @@
+1.Dnspython
+2.Motor
+3.Pyrogram
+4.Pymongo
+5.Requests 
+6.TgCrypto
